@@ -1,2 +1,2 @@
-# t25-xmas-tree
-attiny25v Christmas tree
+# t84-xmas-tree
+attiny84v Christmas tree
